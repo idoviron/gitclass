@@ -1,0 +1,4 @@
+void main
+{
+	bla bla bla;
+}
